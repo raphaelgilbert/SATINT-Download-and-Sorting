@@ -1,0 +1,3 @@
+Python script to download and sort satelite imagery from a geojson list, then allow for manual sorting, endgoal being to create high quality listing of military installations (SAM site for the time being) in orer to train a AI model to reconize them on a large scale and gain me time in my researchs.
+Does not work as of 30/11/2024, lacks the deleting of info and image logic, which isn't really suited to a local process and would be a lot easier done via an online process (many people could sort images at the same time)
+The image dowloading part comes from a random script on the internet I will credit the dude when my stuf works.
